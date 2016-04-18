@@ -1,0 +1,6 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">SunShine Wear Application</string>
+    <string name="my_digital_name">My Digital</string>
+    <string name="format_high_temp"><xliff:g id="high">%1$s</xliff:g></string>
+    <string name="format_low_temp"><xliff:g id="low">%1$s</xliff:g></string>
+</resources>
